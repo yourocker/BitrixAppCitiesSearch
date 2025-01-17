@@ -1,0 +1,6 @@
+@BitrixAppCitiesSearch_HostAddress = http://localhost:5159
+
+GET {{BitrixAppCitiesSearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
